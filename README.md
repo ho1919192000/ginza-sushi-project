@@ -15,7 +15,7 @@ In this study, I conduct several usability testing to identify the problem befor
 - Do the navigation items have unambiguous names?
 - Do the users know how to complete specific tasks via the navigation option?
 - Does the site offer enough tools for the user to complete tasks?
-- Is the content well –organized?
+- Is the content well–organized?
 - Is the site easy to use?
 ### Visual Appearance
 - Does the site have the proper background (White space usage, Color choices Contrast in foreground/background) without interfering with user’s reading skill?
@@ -126,7 +126,7 @@ Every subject successfully completed the tasks without making any error. The mai
 
 First of all, the task one is mainly to test whether the website provides enough hits for visitors to know where they are. Many of the testers could identify the answer via the logo design and the tagline. However, some subjects needed to go to the menu to figure out the food restaurant serve. This result shows a problem that some of the hints on the home page cannot efficiently deliver the style of the restaurant. The questionnaire ranking results show this problem as well, which the question two and four (the restaurant provides sufficient information and adequate tools) only got 4.4. Combining the task result with open-ended questions, many testers complain that the cover flow image is not informative and attractive enough. That means the information on home page does not informative enough to support user’s memorability to recall the related memory and image in order to complete the task one. Furthermore, this site does not create a very positive first impression for the visitor. This is a major usability issue requiring to be solved as soon as possible. This issue also is regulated in rule 5:3 (Create a Positive First Impression of Your Site) with 5 scores on importance.
 
-The task two to five are ensured this site has well-organized information architecture and proper visual appearance (White space usage, Color choices). Overall results and answers in the questionnaire are positive. Nonetheless, there are some features offend the guideline causing deduction on visual appearance. Many of the comments mentioned that the home page is too long and be required to use vertical scrolling to view the whole. This problem has been regulated in rule 6:10 (Set Appropriate Page Lengths) and rule 8:5(Scroll Fewer Screenfuls). Moreover, this issue might cause the user miss the important information on the footer (Open hours, reservation phone number, and location).
+The task two to five are ensured this site has well-organized information architecture and proper visual appearance (White space usage, Color choices). Overall results and answers in the questionnaire are positive. Nonetheless, there are some features offend the guideline causing deduction on visual appearance. Many of the comments mentioned that the home page is too long and be required to use vertical scrolling to view the whole. This problem has been regulated in rule 6:10 (Set Appropriate Page Lengths) and rule 8:5 (Scroll Fewer Screenfuls). Moreover, this issue might cause the user miss the important information on the footer (Open hours, reservation phone number, and location).
 
 The final key issue is that this web site still needs to enrich the information on the menu page and gallery page. From the open-ended answers and questionnaire result, we can see most of the testers expect more functions and detail on both pages. On the menu page, subjects expect to see the food ingredients, signifiers for vegan/ vegetarian and the images of the menu items. On the gallery page, testers expect to have the photo enlarged function and description about the photo. Although missing those features and functions do not interrupt the completion of the tasks, it is regulated in rule 1:3 (Understand and Meet User’s Expectations) and rule 1:4(Involve Users in Establishing User Requirements) which have a full score on importance. That means this website still misses some conventional features that the users assume a restaurant should have.
 ## Recommendations for Change
@@ -154,4 +154,44 @@ This website does not show any significant issue that will cause usability catas
 This section provides the screenshot of the website in this usability study.
 ### Home
 Home page contains three main sections: fixed headers and navigation bars, cover flow, footer with general but important information.
-
+![alt text](https://github.com/ho1919192000/ginza-sushi-project/blob/master/readme-img/screencapture-mysite-du-edu-chuang99-index-html-1492569943141.png)
+### About
+About page delivers the philosophy and slogan to the visitors. 
+![alt text](https://github.com/ho1919192000/ginza-sushi-project/blob/master/readme-img/screencapture-mysite-du-edu-chuang99-about-html-1492569815155.png)
+### Menu
+Menu page consists of four different categories with some explanations and descriptions of food items.
+![alt text](https://github.com/ho1919192000/ginza-sushi-project/blob/master/readme-img/screencapture-mysite-du-edu-chuang99-menu-html-1492569836984.png)
+### Contact
+Contact page includes a google map of the location, general information, and online reservation form.
+![alt text](https://github.com/ho1919192000/ginza-sushi-project/blob/master/readme-img/screencapture-mysite-du-edu-chuang99-contact-html-1492569853261.png)
+### Gallery
+Gallery page presents the pictures of the food in the restaurant.
+## Usability guideline
+| Chapter: Guideline #| Guideline Heading | Relative Importance|
+| ------------- | ------------- | ------------- |
+|1:1|Provide Useful Content|5|
+|1:2|Establish User Requirements|5|
+|3:2|Design Forms for Users Using Assistive Technology|5|
+|3:3|Do Not Use Color Alone to Convey Information|5|
+|5:1|Enable Access to the Homepage|5|
+|5:2|Show All Major Options on the Homepage|5|
+|6:1|Avoid Cluttered Displays|5|
+|6:2|Place Important Items Consistently|5|
+|8:1|Eliminate Horizontal Scrolling|5|
+|9:1|Use Clear Category Labels|5|
+|10:1|Use Meaningful Link Labels|5|
+|13:1|Distinguish Required and Optional Data Entry Fields|5|
+|16:1|Organize Information Clearly|5|
+|16:3|Ensure that Necessary Information is Displayed|5|
+|1:7|Consider Many User Interface Issues|4|
+|2:2|Increase Web Site Credibility|4|
+|2:4|Reduce the User’s Workload|4|
+|4:1|Design for Common Browsers|4|
+|5:5|Limit Prose Text on the Homepage|4|
+|5:6|Ensure the Homepage Looks like a Homepage|4|
+|6:7|Align Items on a Page|4|
+|7:1|Provide Navigational Options|4|
+|7:2|Differentiate and Group Navigation Elements|4|
+|9:2|Provide Descriptive Page Titles|4|
+|9:4|Use Unique and Descriptive Headings|4|
+|9:5|Highlight Critical Data|4|
