@@ -1,0 +1,2 @@
+# ginza-sushi-project
+Ginza Sushi &amp; Grill is a restaurant offering Japanese cuisine. The purpose of this Ginza Sushi &amp; Grill’s site is to provide information for current and potential customers. My goal is to provide efficient and effective user-interface and navigation option for the user to figure out the geolocation and basic information about the restaurant. It means my site not only creates a professional image for users, but also should be easy to use without thinking. 
