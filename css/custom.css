@@ -1,0 +1,205 @@
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+body{
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	
+}
+.contact-form input:required{
+    background: #fff url(images/asterisk.png) no-repeat 98%;
+	color:black;
+}
+.contact-form input:focus:invalid{
+    box-shadow: 2px 2px 5px red;
+    border-color: cornsilk;
+}
+.btn btn-default:hover{
+    background-color: #008CBA;
+}
+#logo{
+
+	width:100%;
+	
+}
+.navbar-brand{
+	float: none;
+	padding:0px 0px;
+}
+.navbar-inverse{
+	background-color: white;
+	border-color: white;
+	position:relative; 
+	z-index:0;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color:#4a4b4c;
+    
+}
+.navbar-inverse .navbar-nav>li>a:hover {
+	color:#4a4b4c;
+
+	border-bottom: solid 2px red;
+}
+.navbar-nav>li>a {
+	font-size: 1.8em;
+}
+.navbar-right{
+	padding-top: 5%;
+}
+header{
+	height:40%;
+}
+
+.carousel-inner > .item > img {
+	width:100%;
+	height:600px;
+    margin: 0 auto;
+}
+.panel{
+	text-align: center;
+}
+.container-footer {
+
+	background-image: url(../img/cover5_footer.jpg);
+    background-size: cover;
+	position: relative;
+    display: block;
+    overflow: hidden;
+    height: auto;
+	background-repeat: no-repeat;
+	color:  white;
+	text-align:center;
+	font-size:1.2em;
+
+}
+.form-background{
+	background-image: url(../img/cover11_version2.jpg);
+    background-size: cover;
+	position: relative;
+    display: block;
+    overflow: hidden;
+    height: auto;
+	background-repeat: no-repeat;
+	color:white;
+	padding-bottom:5%;
+
+}
+.container-map{
+	padding-bottom:5%;
+}
+.carousel-caption{
+	font-size:1.8em;
+}
+#location{
+	width:70%;
+	height: auto;
+	margin: 0 0 10px;
+}
+.col-right > a {
+	color: white;
+	text-decoration: none;
+}
+.col-right > a:hover{
+	color: white;
+	text-decoration: underline;
+}
+
+.col-md-4>a.btn{
+	display: inline-block;
+    text-decoration: none;
+    font-size: 1.1em;
+    color: #ffffff;
+    padding: 10px 20px;
+    background: rgba(0,0,0, 0); 
+    border: 3px solid #ffffff;
+	
+}
+.col-md-4>a.btn:hover{
+	background-color:white;
+	color:#717171;
+	font-style:bold;
+	transform: scale(1.05);
+}
+footer{
+	background-color:#4a4b4c;
+	color: white;
+	text-align:center;
+}
+footer .row>.col-lg-12>p{
+	margin-top:5px;
+}
+.sushi-icon{
+	width:40px;
+	height:40px;
+	margin-top:-10px;
+}
+.sushi-icon2{
+	width:25px;
+	height:25px;
+}
+.content-about{
+	margin-bottom:5%;
+}
+.identifer{
+	color:#4a4b4c;
+	border-bottom: solid 2px red;
+}
+.iconbackgroundcolor{
+	color:#DAA520;
+
+}
+.iconbackgroundcolor:hover{
+
+	transform: scale(1.1);
+}
+#submitButton{
+	
+	font-size: 1.1em;
+	font-style:bold;
+	background-color: rgba(0,0,0, 0);
+	border: 3px solid white;
+	color: white;
+}
+#submitButton:hover{
+	background-color: white;
+	border: 3px solid white;
+	color:#91860b;
+	
+}
+h1.page-header{
+	padding-top:1%;
+	background-color:#C70025;
+	color:white;
+	text-align:center;
+}
+h1.page-header small{
+	color:white;
+}
+.float-left{
+	float:left;
+	margin-left:15%;
+	font-weight:bold;
+}
+.float-right{
+	float:right;
+	margin-right:20%;
+}
+ul.menu-item{
+	list-style-type: none;
+	font-size:1.2em;
+	color:#8b0000;
+	line-height:2;
+	margin-top:2.5%;
+	margin-bottom:5%;
+}
+.gallery{
+
+	height:200px;
+	margin-bottom:1%;
+
+}
+.gallery-container{
+	margin-bottom:5%;
+}
