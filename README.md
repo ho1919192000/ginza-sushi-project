@@ -169,6 +169,7 @@ Contact page includes a google map of the location, general information, and onl
 ![alt text](https://github.com/ho1919192000/ginza-sushi-project/blob/master/readme-img/screencapture-mysite-du-edu-chuang99-contact-html-1492569853261.png)
 ### Gallery
 Gallery page presents the pictures of the food in the restaurant.
+![alt text](https://github.com/ho1919192000/ginza-sushi-project/blob/master/readme-img/screencapture-mysite-du-edu-chuang99-gallery-html-1492569869256.png)
 ## Usability Guideline
 | Chapter: Guideline #| Guideline Heading | Relative Importance|
 | ------------- | ------------- | ------------- |
